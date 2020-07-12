@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://Owen:Owen123456@cluster0-cl46u.mongodb.net/sample_mflix?retryWrites=true&w=majority",
+ 
+  "jwtSecret": "fibonaci"
+}
